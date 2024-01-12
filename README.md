@@ -71,9 +71,9 @@ python ssl_scan.py <input_filename>
 <input_filename>: Path to the file containing IP, port, and info.
 
 ### Requirements
-Python 3.x
-sslscan
-testssl.sh
+- Python 3.x
+- sslscan
+- testssl.sh
 
 ### Functionality
 - Reads IP addresses, ports, and info from the specified file.
